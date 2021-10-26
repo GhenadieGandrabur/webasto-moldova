@@ -1,0 +1,35 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+p{font-size: 1em;   font-family: Verdana,  serif; text-rendering: optimizelegibility;}
+#header{background-image: url("../pics/webasto.jpg" );height:680px; width: 100%;background-repeat: no-repeat;}
+#first_head{background-image: url("pics/charge.gif" );height:566px; width: 100%; background-repeat: no repeat;}
+#logo{color:white; position: relative; left: 100px; top: 100px; font-size: 300%;text-shadow: 2px 2px black; width: 50%;}
+
+
+footer{background-color:#CCCCCC; color:#000000;}
+footer ul {padding-left:0;}
+footer li{float:none; list-style: none;}
+footer a{color:#111111; }
+footer a:hover{font-weight: bold; }
+footer li a{list-style: none;display: block;padding:0;text-align: left;}
+div.gal { margin: 5px;  border: 1px solid #ccc;  float: left; width: 180px;}
+div.desc {padding: 15px; text-align: center;}
+div.gal img { width: 100%; height: auto; }
+div.gal:hover { border: 1px solid #777;}
+.dropdown1 { position: relative; display: inline-block;}
+.dropdown-content1 {display: none;  min-width: 600px; border:1px solid #999; border-radius:10px; padding: 12px 16px;  z-index: 1; }
+.dropdown1:hover .dropdown-content1 {display: block; }
+.buton1{padding:10px; background:#3399ff;color:white;}
+
+
+.navbarm { overflow: hidden;}
+.navbarm a {  float: left;  font-size: 16px;  color: black;  text-align: center;  padding: 14px 16px;  text-decoration: none;}
+.dropdownm {float: left;  overflow: hidden;}
+.dropdownm .dropbtnm {font-size: 16px;  border: none;  outline: none;  color: blue; padding: 14px 16px; background-color: inherit; font-family:inherit;  margin: 0;}
+.navbarm a:hover, .dropdownm:hover .dropbtnm {font-weight: bold; }
+.dropdown-contentsm {   display: none;  position: absolute;   background-color: #f9f9f9;   min-width: 160px;   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);  z-index: 1;}
+.dropdown-contentsm a { float: none; color: black; padding: 12px 16px; text-decoration: none; display: block; text-align: left; }
+.dropdown-contentsm a:hover { background-color: #ddd;}
+.dropdownm:hover .dropdown-contentsm { display: block ;}
+
+
+
